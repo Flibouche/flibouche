@@ -2,9 +2,12 @@
 
 # Hi there, I'm Kevin 👋
 <a href="https://www.linkedin.com/in/kevin-pfiffer/" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
+<a href="https://linktr.ee/flibouche" target="_blank"><img align=center src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></img></a>
 
 ## 👨‍💻 Web Developer Fullstack Junior
-🔭 Currently in training 🌱
+🇫🇷 I'm a web developer from France, currently in training !<br>
+I'm currently training **HTML, CSS, JavaScript & PHP** 🌱<br>
+I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
 ## ⚡ Skills
 
@@ -62,3 +65,10 @@
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 <img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4">
 </details>
+
+## ⚡ Top Languages
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=flibouche&show_icons=true&locale=en&layout=compact&theme=radical" alt="Language Stats"/></p>
+
+## ⚡ Stats
+<p><img src="http://github-readme-streak-stats.herokuapp.com/?user=flibouche&theme=monokai-metallian&hide_border=true" alt="Streak Stats"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=flibouche&show_icons=true&theme=onedark&hide_border=true" alt="Stats"/></p>
