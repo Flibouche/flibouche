@@ -1,5 +1,3 @@
-<img style="width:100%" src="https://github.com/flibouche/flibouche/blob/main/banner-github.png">
-
 # Hi there, I'm Kevin 👋
 
 ## 👨‍💻 Web Developer Fullstack Junior
