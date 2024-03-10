@@ -72,3 +72,4 @@ I'm also an incoming game developer by passion, musician and pixel artist 🤗
 ## ⚡ Stats
 <p><img src="http://github-readme-streak-stats.herokuapp.com/?user=flibouche&theme=monokai-metallian&hide_border=true" alt="Streak Stats"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=flibouche&show_icons=true&theme=onedark&hide_border=true" alt="Stats"/></p>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=flibouche&theme=material-palenight&area=true&hide_border=true" alt="Stats"/></p>
