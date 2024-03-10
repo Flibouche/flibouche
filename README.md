@@ -67,7 +67,7 @@ I'm also an incoming game developer by passion, musician and pixel artist 🤗
 </details>
 
 ## ⚡ Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flibouche&layout=compact&theme=onedark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flibouche&layout=compact&theme=onedark&hide_border=true)
 
 ## ⚡ Stats
 ![Flibouche's Streak](http://github-readme-streak-stats.herokuapp.com?user=flibouche&theme=monokai-metallian&hide_border=true) <br>
