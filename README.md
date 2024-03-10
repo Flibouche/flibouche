@@ -67,9 +67,8 @@ I'm also an incoming game developer by passion, musician and pixel artist 🤗
 </details>
 
 ## ⚡ Top Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=flibouche&show_icons=true&locale=en&layout=compact&theme=radical" alt="Language Stats"/></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flibouche&layout=compact&theme=onedark&hide_border=true)
 
 ## ⚡ Stats
-<p><img src="http://github-readme-streak-stats.herokuapp.com/?user=flibouche&theme=monokai-metallian&hide_border=true" alt="Streak Stats"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=flibouche&show_icons=true&theme=onedark&hide_border=true" alt="Stats"/></p>
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=flibouche&theme=material-palenight&area=true&hide_border=true" alt="Stats"/></p>
+![Flibouche's Streak](http://github-readme-streak-stats.herokuapp.com?user=flibouche&theme=monokai-metallian&hide_border=true) <br>
+![Flibouche's GitHub stats](https://github-readme-stats.vercel.app/api?username=flibouche&show_icons=true&theme=onedark&hide_border=true)
