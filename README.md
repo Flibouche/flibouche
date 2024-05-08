@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Web Developer Fullstack Junior
 🇫🇷 I'm a web developer from France, currently in training !<br>
-I'm currently learning **HTML, CSS, JavaScript & PHP** 🌱<br>
+I'm currently learning **HTML, CSS, JavaScript, PHP, SQL & JQuery ** 🌱<br>
 I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
 ## ⚡ Skills
