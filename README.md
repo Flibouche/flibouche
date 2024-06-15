@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/kevin-pfiffer/" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 <a href="https://linktr.ee/flibouche" target="_blank"><img align=center src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></img></a> <br>
 
-![](https://komarev.com/ghpvc/?username=flibouche&color=red)
+![](https://komarev.com/ghpvc/?username=flibouche&color=green)
 
 ## 👨‍💻 Web Developer Fullstack Junior
 🇫🇷 I'm a web developer from France, currently in training !<br>
