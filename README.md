@@ -9,10 +9,10 @@
 
 ## 👨‍💻 Web Developer Fullstack Junior
 🇫🇷 I'm a web developer from France, currently in training !<br>
-I'm currently learning **HTML, CSS, JavaScript, PHP, SQL & JQuery** 🌱<br>
+I'm currently learning **HTML, CSS, JavaScript, PHP, SQL, JQuery, Symfony** 🌱<br>
 I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
-You can see here my 2D portfolio (in progress !) : <a href="https://flibouche-2d-portfolio.vercel.app/"> heeeeere !</a>
+<p align="center"><a href="https://flibouche-2d-portfolio.vercel.app/" target="_blank" align="center">My 2D portfolio (in progress !) ✨</a></p>
 
 ## ⚡ Skills
 <img style="width:100%" src="https://github.com/flibouche/flibouche/blob/main/my_skills_github.png">
