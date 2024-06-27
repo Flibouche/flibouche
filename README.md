@@ -21,5 +21,5 @@ I'm also an incoming game developer by passion, musician and pixel artist 🤗
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flibouche&layout=compact&theme=merko&hide_border=true)
 
 ## ⚡ Stats
-<a align="center">![Flibouche's Streak](http://github-readme-streak-stats.herokuapp.com?user=flibouche&theme=merko&hide_border=true)</a>
-<a align="center">![Flibouche's GitHub stats](https://github-readme-stats.vercel.app/api?username=flibouche&show_icons=true&theme=merko&hide_border=true)</a>
+![Flibouche's Streak](http://github-readme-streak-stats.herokuapp.com?user=flibouche&theme=merko&hide_border=true)
+![Flibouche's GitHub stats](https://github-readme-stats.vercel.app/api?username=flibouche&show_icons=true&theme=merko&hide_border=true)
