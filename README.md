@@ -12,6 +12,8 @@
 I'm currently learning **HTML, CSS, JavaScript, PHP, SQL & JQuery** 🌱<br>
 I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
+You can see here my 2D portfolio (in progress !) : <a href="https://flibouche-2d-portfolio.vercel.app/"> heeeeere !</a>
+
 ## ⚡ Skills
 <img style="width:100%" src="https://github.com/flibouche/flibouche/blob/main/my_skills_github.png">
 
