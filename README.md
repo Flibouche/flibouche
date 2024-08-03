@@ -22,4 +22,3 @@ I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
 ## ⚡ Stats
 ![Flibouche's Streak](http://github-readme-streak-stats.herokuapp.com?user=flibouche&theme=merko&hide_border=true)
-![Flibouche's GitHub stats](https://github-readme-stats.vercel.app/api?username=flibouche&show_icons=true&theme=merko&hide_border=true)
