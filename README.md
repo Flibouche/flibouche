@@ -17,6 +17,11 @@ I'm also an incoming game developer by passion, musician and pixel artist 🤗
 ## ⚡ Skills
 <img style="width:100%" src="https://github.com/flibouche/flibouche/blob/main/my_skills_github.png">
 
+## ⚡ My latest projects
+Find more details here : [CO2M](https://github.com/Flibouche/co2m)
+![](co2m.png)
+![](CO2M.gif)
+
 ## ⚡ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flibouche&layout=compact&theme=merko&hide_border=true)
 
