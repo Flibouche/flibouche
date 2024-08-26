@@ -22,8 +22,6 @@ Find more details here : [CO2M](https://github.com/Flibouche/co2m)
 ![](co2m.png)
 ![](CO2M.gif)
 
-## ⚡ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flibouche&layout=compact&theme=merko&hide_border=true)
-
 ## ⚡ Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flibouche&layout=compact&theme=merko&hide_border=true)
 ![Flibouche's Streak](http://github-readme-streak-stats.herokuapp.com?user=flibouche&theme=merko&hide_border=true)
