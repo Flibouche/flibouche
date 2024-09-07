@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Web Developer Fullstack Junior
 🇫🇷 I'm a web developer from France, currently in training !<br>
-I'm currently learning **Tailwind, JQuery, Symfony, React** 🌱<br>
+I'm currently learning **Symfony, MERN Stack** 🌱<br>
 I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
 <p align="center"><a href="https://flibouche-2d-portfolio.vercel.app/" target="_blank" align="center">My 2D portfolio (in progress !) ✨</a></p>
