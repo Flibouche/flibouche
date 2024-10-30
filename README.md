@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=flibouche&color=27533b)
 
 ## 👨‍💻 Web Developer Fullstack Junior
-🇫🇷 I'm a web developer from France, currently in training !<br>
+🇫🇷 I'm a junior web developer from France, currently in training !<br>
 I'm currently learning **Symfony, MERN Stack and NextJS** 🌱<br>
 I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
