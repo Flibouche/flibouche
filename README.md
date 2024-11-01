@@ -12,7 +12,7 @@
 I'm currently learning **Symfony and NextJS** 🌱<br>
 I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
-<p align="center"><a href="https://flibouche-2d-portfolio.vercel.app/" target="_blank" align="center">My 2D portfolio (in progress !) ✨</a></p>
+<p align="center"><a href="https://flibouche-2d-portfolio.vercel.app/" target="_blank" align="center">My 2D portfolio ✨</a></p>
 
 ## ⚡ Skills
 <img style="width:100%" src="https://github.com/flibouche/flibouche/blob/main/my_skills_github.png">
