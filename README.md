@@ -19,7 +19,8 @@ I'm also an incoming game developer by passion, musician and pixel artist 🤗
 <img style="width:100%" src="https://github.com/flibouche/flibouche/blob/main/my_skills_github.png">
 
 ## ⚡ My latest projects
-Find more details here : [CO2M](https://github.com/Flibouche/co2m)
+Find more details on the repository : [CO2M-Repository](https://github.com/Flibouche/co2m) <br />
+Or visit the project here : [CO2M](https://co2m.vercel.app/)
 ![](co2m.png)
 ![](CO2M.gif)
 
