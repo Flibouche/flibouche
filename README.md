@@ -8,8 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=flibouche&color=27533b)
 
 ## 👨‍💻 Web Developer Fullstack Junior
-🇫🇷 I'm a junior web developer from France, currently in training !<br>
-I'm currently learning **Symfony and NextJS** 🌱<br>
+🇫🇷 I'm a junior web developer from France !<br>
+I'm currently learning **Symfony, React and NextJS** 🌱<br>
 I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
 <p align="center"><a href="https://kevin-pfiffer-portfolio.vercel.app/">✨ My portfolio ✨</a></p>
