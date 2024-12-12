@@ -8,6 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=flibouche&color=27533b)
 
 ## 👨‍💻 Web Developer Fullstack Junior
+👋 Hello ! Thank you for visiting my profile, and I wish you happy holidays and merry Christmas 🎅 ! 
 🇫🇷 I'm a junior web developer from France !<br>
 I'm currently learning **Symfony, React and NextJS** 🌱<br>
 I'm also an incoming game developer by passion, musician and pixel artist 🤗
