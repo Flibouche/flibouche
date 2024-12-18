@@ -10,7 +10,7 @@
 ## 👨‍💻 Web Developer Fullstack Junior
 👋 Hello ! Thank you for visiting my profile, and I wish you happy holidays and merry Christmas 🎅 ! <br>
 🇫🇷 I'm a junior web developer from France !<br>
-I'm currently learning **Symfony, React and NextJS** 🌱<br>
+I'm currently learning **Symfony, React and Next.js** 🌱<br>
 I'm also an incoming game developer by passion, musician and pixel artist 🤗
 
 <p align="center"><a href="https://kevin-pfiffer-portfolio.vercel.app/">✨ My portfolio ✨</a></p>
